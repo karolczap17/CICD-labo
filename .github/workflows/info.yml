@@ -17,4 +17,4 @@ jobs:
         run: cat /etc/os-release
 
       - name: workdir
-          run: ls -la
+        run: ls -la
